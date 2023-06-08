@@ -1,9 +1,0 @@
-com\test\model\User.class
-com\test\config\BatchConfiguration$1$1.class
-com\test\config\BatchConfiguration$1$2.class
-com\test\SpringBatchApplication.class
-com\test\itemprocessor\UserItemProcessor.class
-com\test\config\BatchConfiguration$1.class
-com\test\listener\JobCompletionNotificationListener.class
-com\test\config\BatchConfiguration.class
-com\test\listener\JobCompletionNotificationListener$1.class

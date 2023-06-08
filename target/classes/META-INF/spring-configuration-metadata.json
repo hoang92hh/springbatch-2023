@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "job",
+      "type": "com.test.scheduler.SchedulingProperties",
+      "sourceType": "com.test.scheduler.SchedulingProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "job.cron-expression",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.test.scheduler.SchedulingProperties"
+    },
+    {
+      "name": "job.description",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.test.scheduler.SchedulingProperties"
+    },
+    {
+      "name": "job.exe-class",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.test.scheduler.SchedulingProperties"
+    },
+    {
+      "name": "job.is-execute",
+      "type": "java.lang.String",
+      "sourceType": "com.test.scheduler.SchedulingProperties"
+    }
+  ],
+  "hints": []
+}
